@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<img height="170" align="right" src="https://github-readme-stats.vercel.app/api?username=lichaojacobs&count_private=true&include_all_commits=true"  alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"/>
+
+- 🔭 I’m currently working on kuaishou as a bigData engineer.
+- 🔭  Concentrate on Hadoop subsystems, kubernetes etc.
+- 🌱  Open source fancier in Java, Go, C++, Hadoop, Kubernetes etc.
+- 🏠  zhihu page at [lichaojacbos](https://www.zhihu.com/people/chao-li-11).
+
 <!--
 **lichaojacobs/lichaojacobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
