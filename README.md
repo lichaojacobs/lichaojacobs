@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+<!--
 <img height="170" align="right" src="https://github-readme-stats.vercel.app/api?username=lichaojacobs&count_private=true&include_all_commits=true"  alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"/>
+-->
 
 - 🔭  I’m currently working on kuaishou as a big data architect engineer.
 - 🔭  Concentrate on Hadoop subsystems, kubernetes etc.
