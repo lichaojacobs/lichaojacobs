@@ -6,7 +6,7 @@
 
 - 🔭  I’m currently working on kuaishou as a big data architect engineer.
 - 🔭  Concentrate on Hadoop subsystems, kubernetes etc.
-- 🌱  Open source fancier in Java, Go, C++, Hadoop, Kubernetes etc.
+- 🌱  Open source fancier in Java, Go, Rust Hadoop, Kubernetes etc.
 - 🏠  zhihu page at [lichaojacbos](https://www.zhihu.com/people/chao-li-11).
 
 <!--
